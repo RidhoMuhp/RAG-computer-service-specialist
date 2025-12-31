@@ -1,0 +1,63 @@
+[
+  {
+    "problem_id": "LPT-DSP-002",
+    "problem_title": "Laptop Menyala Namun Layar Tetap Hitam",
+    "category": "Display",
+    "section": "Overview",
+    "content": "Masalah layar hitam terjadi ketika sistem laptop aktif namun tidak menampilkan output visual pada panel internal, yang umumnya berkaitan dengan gangguan jalur sinyal display, backlight, atau komponen grafis."
+  },
+  {
+    "problem_id": "LPT-DSP-002",
+    "category": "Display",
+    "section": "User-Observed Symptoms",
+    "content": "Pengguna biasanya melaporkan laptop menyala normal dengan lampu indikator aktif dan kipas berputar, tetapi layar tetap gelap tanpa tampilan gambar."
+  },
+  {
+    "problem_id": "LPT-DSP-002",
+    "category": "Display",
+    "section": "Primary Symptoms",
+    "content": "Gejala utama meliputi layar hitam saat booting, layar mati setelah login, layar berkedip sebelum mati, atau tampilan hanya muncul ketika menggunakan monitor eksternal."
+  },
+  {
+    "problem_id": "LPT-DSP-002",
+    "category": "Display",
+    "section": "Display Hardware Causes",
+    "content": "Penyebab pada sisi display dapat berupa kabel fleksibel LCD yang longgar atau rusak, panel LCD yang mati, serta IC backlight atau inverter yang tidak berfungsi dengan baik."
+  },
+  {
+    "problem_id": "LPT-DSP-002",
+    "category": "Display",
+    "section": "Graphics and System Causes",
+    "content": "Selain komponen layar, masalah juga dapat disebabkan oleh driver VGA yang corrupt, gangguan pada IC GPU, BIOS error, atau RAM yang tidak terbaca oleh sistem."
+  },
+  {
+    "problem_id": "LPT-DSP-002",
+    "category": "Display",
+    "section": "Initial Diagnostic Procedure",
+    "content": "Diagnosis awal dilakukan dengan menghubungkan laptop ke monitor eksternal untuk memastikan apakah masalah berasal dari panel internal atau jalur grafis utama."
+  },
+  {
+    "problem_id": "LPT-DSP-002",
+    "category": "Display",
+    "section": "Backlight and Signal Testing",
+    "content": "Pengujian lanjutan meliputi backlight test menggunakan senter, pengecekan tegangan ke layar, serta inspeksi visual pada konektor dan kabel fleksibel LCD."
+  },
+  {
+    "problem_id": "LPT-DSP-002",
+    "category": "Display",
+    "section": "Software-Level Troubleshooting",
+    "content": "Pada sisi software, langkah yang disarankan meliputi masuk ke BIOS, boot ke safe mode, serta melakukan reinstall atau update driver VGA dan firmware terkait."
+  },
+  {
+    "problem_id": "LPT-DSP-002",
+    "category": "Display",
+    "section": "Service-Level Solutions",
+    "content": "Solusi servis mencakup penggantian kabel fleksibel LCD, penggantian panel LCD, reset atau update BIOS, serta perbaikan atau reball IC GPU pada kasus lanjutan."
+  },
+  {
+    "problem_id": "LPT-DSP-002",
+    "category": "Display",
+    "section": "Risk and Cost Consideration",
+    "content": "Penanganan layar memiliki risiko kerusakan panel jika tidak hati-hati, sementara kesalahan perbaikan GPU atau update BIOS dapat menyebabkan kerusakan motherboard dan meningkatkan biaya perbaikan."
+  }
+]

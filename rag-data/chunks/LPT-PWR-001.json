@@ -1,0 +1,63 @@
+[
+  {
+    "problem_id": "LPT-PWR-001",
+    "problem_title": "Laptop Mati Total Namun Lampu Indikator Nyala",
+    "category": "Power",
+    "section": "Overview",
+    "content": "Kondisi laptop mati total dengan lampu indikator charger tetap menyala menunjukkan adanya aliran daya masuk, namun sistem gagal melanjutkan proses power-on akibat gangguan pada jalur manajemen daya internal."
+  },
+  {
+    "problem_id": "LPT-PWR-001",
+    "category": "Power",
+    "section": "User-Observed Symptoms",
+    "content": "Pengguna umumnya melaporkan laptop tidak merespons saat tombol power ditekan, layar tetap hitam, kipas tidak berputar, namun lampu indikator charger atau baterai tetap menyala normal."
+  },
+  {
+    "problem_id": "LPT-PWR-001",
+    "category": "Power",
+    "section": "Primary Symptoms",
+    "content": "Gejala utama meliputi tidak adanya aktivitas sistem, tidak terdengar suara kipas, tidak muncul logo BIOS, serta tidak ada indikasi boot meskipun adaptor charger terpasang."
+  },
+  {
+    "problem_id": "LPT-PWR-001",
+    "category": "Power",
+    "section": "Hardware-Level Root Causes",
+    "content": "Pada level hardware, masalah sering disebabkan oleh IC power management yang gagal mendistribusikan tegangan, jalur power motherboard yang terganggu, atau baterai internal yang mengalami kerusakan."
+  },
+  {
+    "problem_id": "LPT-PWR-001",
+    "category": "Power",
+    "section": "Component-Related Causes",
+    "content": "Selain IC power, RAM yang tidak terpasang sempurna, adaptor charger dengan output tidak stabil, atau baterai internal yang short juga dapat menyebabkan laptop tidak menyala sama sekali."
+  },
+  {
+    "problem_id": "LPT-PWR-001",
+    "category": "Power",
+    "section": "Initial Diagnostic Procedure",
+    "content": "Diagnosis awal dimulai dengan melepas adaptor dan baterai, melakukan power drain dengan menekan tombol power selama 10–15 detik, lalu mencoba menyalakan laptop hanya dengan adaptor."
+  },
+  {
+    "problem_id": "LPT-PWR-001",
+    "category": "Power",
+    "section": "Basic Troubleshooting Steps",
+    "content": "Langkah dasar troubleshooting mencakup pemasangan ulang RAM, pengujian menggunakan adaptor charger lain yang kompatibel, serta memastikan tidak ada komponen eksternal yang menyebabkan short."
+  },
+  {
+    "problem_id": "LPT-PWR-001",
+    "category": "Power",
+    "section": "Service-Level Solutions",
+    "content": "Solusi pada level servis meliputi reset power system, penggantian baterai internal jika terdeteksi rusak, serta perbaikan atau penggantian komponen motherboard yang bermasalah."
+  },
+  {
+    "problem_id": "LPT-PWR-001",
+    "category": "Power",
+    "section": "Cost & Time Consideration",
+    "content": "Biaya perbaikan bervariasi mulai dari pengecekan ringan hingga service motherboard dengan estimasi waktu pengerjaan antara 1 hingga 3 hari kerja tergantung tingkat kerusakan."
+  },
+  {
+    "problem_id": "LPT-PWR-001",
+    "category": "Power",
+    "section": "Risk and Service Advisory",
+    "content": "Pembongkaran unit berisiko membatalkan garansi resmi, dan sangat disarankan melakukan backup data sebelum perbaikan lanjutan karena kemungkinan penggantian komponen utama."
+  }
+]

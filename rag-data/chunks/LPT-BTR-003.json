@@ -1,0 +1,62 @@
+[
+  {
+    "problem_id": "LPT-BTR-003",
+    "category": "Power/Battery",
+    "section": "Technical Overview",
+    "content": "Battery drain merupakan kondisi abnormal di mana sistem laptop kehilangan daya lebih cepat dari standar desain pabrikan, sering kali disertai shutdown mendadak meskipun indikator baterai menunjukkan kapasitas masih mencukupi."
+  },
+  {
+    "problem_id": "LPT-BTR-003",
+    "category": "Power/Battery",
+    "section": "User-Reported Symptoms",
+    "content": "Pengguna biasanya melaporkan laptop mati tiba-tiba tanpa peringatan, persentase baterai turun secara tidak konsisten, serta ketergantungan tinggi pada adaptor meskipun baterai baru diisi penuh."
+  },
+  {
+    "problem_id": "LPT-BTR-003",
+    "category": "Power/Battery",
+    "section": "Hardware-Related Causes",
+    "content": "Dari sisi hardware, penyebab umum meliputi sel baterai yang melemah, IC charging tidak stabil, jalur power yang mengalami drop tegangan, serta sensor baterai yang tidak membaca kapasitas secara akurat."
+  },
+  {
+    "problem_id": "LPT-BTR-003",
+    "category": "Power/Battery",
+    "section": "Software-Related Causes",
+    "content": "Masalah juga dapat dipicu oleh bug sistem operasi, driver power management yang corrupt, BIOS versi lama, atau aplikasi background yang terus menggunakan resource CPU dan GPU secara berlebihan."
+  },
+  {
+    "problem_id": "LPT-BTR-003",
+    "category": "Power/Battery",
+    "section": "Thermal Influence",
+    "content": "Suhu kerja yang tinggi akibat debu pada sistem pendingin atau beban berlebih dapat mempercepat konsumsi daya dan memicu proteksi sistem yang menyebabkan laptop mati mendadak."
+  },
+  {
+    "problem_id": "LPT-BTR-003",
+    "category": "Power/Battery",
+    "section": "Diagnostic Priority",
+    "content": "Prioritas diagnosis dimulai dari pengecekan battery health, pemantauan konsumsi daya sistem, validasi charger yang digunakan, serta pengujian suhu komponen utama saat kondisi idle dan full load."
+  },
+  {
+    "problem_id": "LPT-BTR-003",
+    "category": "Power/Battery",
+    "section": "Service-Level Solutions",
+    "content": "Pada level servis, tindakan yang umum dilakukan meliputi kalibrasi baterai, penggantian baterai yang sudah melewati siklus pakai, pembersihan sistem pendingin, serta update BIOS dan firmware terkait power."
+  },
+  {
+    "problem_id": "LPT-BTR-003",
+    "category": "Power/Battery",
+    "section": "Preventive Measures",
+    "content": "Pencegahan dapat dilakukan dengan menghindari penggunaan baterai non-original, menjaga ventilasi laptop tetap bersih, serta menggunakan pengaturan power saver saat laptop digunakan tanpa adaptor."
+  },
+  {
+    "problem_id": "LPT-BTR-003",
+    "category": "Power/Battery",
+    "section": "Risk Assessment",
+    "content": "Battery drain yang dibiarkan dapat meningkatkan risiko kerusakan motherboard akibat panas berlebih, memperpendek umur baterai, dan menyebabkan kegagalan sistem secara tiba-tiba."
+  },
+  {
+    "problem_id": "LPT-BTR-003",
+    "category": "Power/Battery",
+    "section": "Service Recommendation Notes",
+    "content": "Untuk hasil optimal, disarankan menggunakan baterai dan charger sesuai spesifikasi pabrikan serta melakukan pengecekan berkala pada sistem pendingin dan manajemen daya laptop."
+  }
+]
