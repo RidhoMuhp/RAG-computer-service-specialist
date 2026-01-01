@@ -13,8 +13,7 @@ Kenapa pakai RAG?
 Karena:
 - Jawaban berbasis data teknis nyata
 Tidak halu seperti LLM murni
-2. Use Case yang Realistis
-Chatbot tidak hanya jawab, tapi:
+2. Use Case Chatbot tidak hanya jawab, tapi:
 - Tanya balik (clarifying question)
 - Memberi diagnosis bertahap
 - Memberi opsi solusi murah → mahal
