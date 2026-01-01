@@ -1,0 +1,184 @@
+[
+  {
+    "problem_id": "LPT-BTR-003",
+    "category": "Power/Battery",
+    "section": "Technical Overview",
+    "content": "Battery drain merupakan kondisi abnormal di mana sistem laptop kehilangan daya lebih cepat dari standar desain pabrikan, sering kali disertai shutdown mendadak meskipun indikator baterai menunjukkan kapasitas masih mencukupi."
+  },
+  {
+    "problem_id": "LPT-BTR-003",
+    "category": "Power/Battery",
+    "section": "User-Reported Symptoms",
+    "content": "Pengguna biasanya melaporkan laptop mati tiba-tiba tanpa peringatan, persentase baterai turun secara tidak konsisten, serta ketergantungan tinggi pada adaptor meskipun baterai baru diisi penuh."
+  },
+  {
+    "problem_id": "LPT-BTR-003",
+    "category": "Power/Battery",
+    "section": "Hardware-Related Causes",
+    "content": "Dari sisi hardware, penyebab umum meliputi sel baterai yang melemah, IC charging tidak stabil, jalur power yang mengalami drop tegangan, serta sensor baterai yang tidak membaca kapasitas secara akurat."
+  },
+  {
+    "problem_id": "LPT-BTR-003",
+    "category": "Power/Battery",
+    "section": "Software-Related Causes",
+    "content": "Masalah juga dapat dipicu oleh bug sistem operasi, driver power management yang corrupt, BIOS versi lama, atau aplikasi background yang terus menggunakan resource CPU dan GPU secara berlebihan."
+  },
+  {
+    "problem_id": "LPT-BTR-003",
+    "category": "Power/Battery",
+    "section": "Thermal Influence",
+    "content": "Suhu kerja yang tinggi akibat debu pada sistem pendingin atau beban berlebih dapat mempercepat konsumsi daya dan memicu proteksi sistem yang menyebabkan laptop mati mendadak."
+  },
+  {
+    "problem_id": "LPT-BTR-003",
+    "category": "Power/Battery",
+    "section": "Diagnostic Priority",
+    "content": "Prioritas diagnosis dimulai dari pengecekan battery health, pemantauan konsumsi daya sistem, validasi charger yang digunakan, serta pengujian suhu komponen utama saat kondisi idle dan full load."
+  },
+  {
+    "problem_id": "LPT-BTR-003",
+    "category": "Power/Battery",
+    "section": "Service-Level Solutions",
+    "content": "Pada level servis, tindakan yang umum dilakukan meliputi kalibrasi baterai, penggantian baterai yang sudah melewati siklus pakai, pembersihan sistem pendingin, serta update BIOS dan firmware terkait power."
+  },
+  {
+    "problem_id": "LPT-BTR-003",
+    "category": "Power/Battery",
+    "section": "Preventive Measures",
+    "content": "Pencegahan dapat dilakukan dengan menghindari penggunaan baterai non-original, menjaga ventilasi laptop tetap bersih, serta menggunakan pengaturan power saver saat laptop digunakan tanpa adaptor."
+  },
+  {
+    "problem_id": "LPT-BTR-003",
+    "category": "Power/Battery",
+    "section": "Risk Assessment",
+    "content": "Battery drain yang dibiarkan dapat meningkatkan risiko kerusakan motherboard akibat panas berlebih, memperpendek umur baterai, dan menyebabkan kegagalan sistem secara tiba-tiba."
+  },
+  {
+    "problem_id": "LPT-BTR-003",
+    "category": "Power/Battery",
+    "section": "Service Recommendation Notes",
+    "content": "Untuk hasil optimal, disarankan menggunakan baterai dan charger sesuai spesifikasi pabrikan serta melakukan pengecekan berkala pada sistem pendingin dan manajemen daya laptop."
+  },
+  {
+    "problem_id": "LPT-DSP-002",
+    "problem_title": "Laptop Menyala Namun Layar Tetap Hitam",
+    "category": "Display",
+    "section": "Overview",
+    "content": "Masalah layar hitam terjadi ketika sistem laptop aktif namun tidak menampilkan output visual pada panel internal, yang umumnya berkaitan dengan gangguan jalur sinyal display, backlight, atau komponen grafis."
+  },
+  {
+    "problem_id": "LPT-DSP-002",
+    "category": "Display",
+    "section": "User-Observed Symptoms",
+    "content": "Pengguna biasanya melaporkan laptop menyala normal dengan lampu indikator aktif dan kipas berputar, tetapi layar tetap gelap tanpa tampilan gambar."
+  },
+  {
+    "problem_id": "LPT-DSP-002",
+    "category": "Display",
+    "section": "Primary Symptoms",
+    "content": "Gejala utama meliputi layar hitam saat booting, layar mati setelah login, layar berkedip sebelum mati, atau tampilan hanya muncul ketika menggunakan monitor eksternal."
+  },
+  {
+    "problem_id": "LPT-DSP-002",
+    "category": "Display",
+    "section": "Display Hardware Causes",
+    "content": "Penyebab pada sisi display dapat berupa kabel fleksibel LCD yang longgar atau rusak, panel LCD yang mati, serta IC backlight atau inverter yang tidak berfungsi dengan baik."
+  },
+  {
+    "problem_id": "LPT-DSP-002",
+    "category": "Display",
+    "section": "Graphics and System Causes",
+    "content": "Selain komponen layar, masalah juga dapat disebabkan oleh driver VGA yang corrupt, gangguan pada IC GPU, BIOS error, atau RAM yang tidak terbaca oleh sistem."
+  },
+  {
+    "problem_id": "LPT-DSP-002",
+    "category": "Display",
+    "section": "Initial Diagnostic Procedure",
+    "content": "Diagnosis awal dilakukan dengan menghubungkan laptop ke monitor eksternal untuk memastikan apakah masalah berasal dari panel internal atau jalur grafis utama."
+  },
+  {
+    "problem_id": "LPT-DSP-002",
+    "category": "Display",
+    "section": "Backlight and Signal Testing",
+    "content": "Pengujian lanjutan meliputi backlight test menggunakan senter, pengecekan tegangan ke layar, serta inspeksi visual pada konektor dan kabel fleksibel LCD."
+  },
+  {
+    "problem_id": "LPT-DSP-002",
+    "category": "Display",
+    "section": "Software-Level Troubleshooting",
+    "content": "Pada sisi software, langkah yang disarankan meliputi masuk ke BIOS, boot ke safe mode, serta melakukan reinstall atau update driver VGA dan firmware terkait."
+  },
+  {
+    "problem_id": "LPT-DSP-002",
+    "category": "Display",
+    "section": "Service-Level Solutions",
+    "content": "Solusi servis mencakup penggantian kabel fleksibel LCD, penggantian panel LCD, reset atau update BIOS, serta perbaikan atau reball IC GPU pada kasus lanjutan."
+  },
+  {
+    "problem_id": "LPT-DSP-002",
+    "category": "Display",
+    "section": "Risk and Cost Consideration",
+    "content": "Penanganan layar memiliki risiko kerusakan panel jika tidak hati-hati, sementara kesalahan perbaikan GPU atau update BIOS dapat menyebabkan kerusakan motherboard dan meningkatkan biaya perbaikan."
+  },
+  {
+    "problem_id": "LPT-PWR-001",
+    "problem_title": "Laptop Mati Total Namun Lampu Indikator Nyala",
+    "category": "Power",
+    "section": "Overview",
+    "content": "Kondisi laptop mati total dengan lampu indikator charger tetap menyala menunjukkan adanya aliran daya masuk, namun sistem gagal melanjutkan proses power-on akibat gangguan pada jalur manajemen daya internal."
+  },
+  {
+    "problem_id": "LPT-PWR-001",
+    "category": "Power",
+    "section": "User-Observed Symptoms",
+    "content": "Pengguna umumnya melaporkan laptop tidak merespons saat tombol power ditekan, layar tetap hitam, kipas tidak berputar, namun lampu indikator charger atau baterai tetap menyala normal."
+  },
+  {
+    "problem_id": "LPT-PWR-001",
+    "category": "Power",
+    "section": "Primary Symptoms",
+    "content": "Gejala utama meliputi tidak adanya aktivitas sistem, tidak terdengar suara kipas, tidak muncul logo BIOS, serta tidak ada indikasi boot meskipun adaptor charger terpasang."
+  },
+  {
+    "problem_id": "LPT-PWR-001",
+    "category": "Power",
+    "section": "Hardware-Level Root Causes",
+    "content": "Pada level hardware, masalah sering disebabkan oleh IC power management yang gagal mendistribusikan tegangan, jalur power motherboard yang terganggu, atau baterai internal yang mengalami kerusakan."
+  },
+  {
+    "problem_id": "LPT-PWR-001",
+    "category": "Power",
+    "section": "Component-Related Causes",
+    "content": "Selain IC power, RAM yang tidak terpasang sempurna, adaptor charger dengan output tidak stabil, atau baterai internal yang short juga dapat menyebabkan laptop tidak menyala sama sekali."
+  },
+  {
+    "problem_id": "LPT-PWR-001",
+    "category": "Power",
+    "section": "Initial Diagnostic Procedure",
+    "content": "Diagnosis awal dimulai dengan melepas adaptor dan baterai, melakukan power drain dengan menekan tombol power selama 10–15 detik, lalu mencoba menyalakan laptop hanya dengan adaptor."
+  },
+  {
+    "problem_id": "LPT-PWR-001",
+    "category": "Power",
+    "section": "Basic Troubleshooting Steps",
+    "content": "Langkah dasar troubleshooting mencakup pemasangan ulang RAM, pengujian menggunakan adaptor charger lain yang kompatibel, serta memastikan tidak ada komponen eksternal yang menyebabkan short."
+  },
+  {
+    "problem_id": "LPT-PWR-001",
+    "category": "Power",
+    "section": "Service-Level Solutions",
+    "content": "Solusi pada level servis meliputi reset power system, penggantian baterai internal jika terdeteksi rusak, serta perbaikan atau penggantian komponen motherboard yang bermasalah."
+  },
+  {
+    "problem_id": "LPT-PWR-001",
+    "category": "Power",
+    "section": "Cost & Time Consideration",
+    "content": "Biaya perbaikan bervariasi mulai dari pengecekan ringan hingga service motherboard dengan estimasi waktu pengerjaan antara 1 hingga 3 hari kerja tergantung tingkat kerusakan."
+  },
+  {
+    "problem_id": "LPT-PWR-001",
+    "category": "Power",
+    "section": "Risk and Service Advisory",
+    "content": "Pembongkaran unit berisiko membatalkan garansi resmi, dan sangat disarankan melakukan backup data sebelum perbaikan lanjutan karena kemungkinan penggantian komponen utama."
+  }
+]
