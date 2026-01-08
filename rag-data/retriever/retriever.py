@@ -28,12 +28,21 @@ def search_query(query, top_k=3):
     results = []
     for i in indices[0]:
         results.append(metadata[i])
+        
     return results
 
+
 if __name__ == "__main__":
-    sample_query = "Layar laptop saya tiba-tiba menjadi hitam saat dinyalakan."
+    sample_query = "Layar laptop saya tiba-tiba menjadi hitam saat baru dinyalakan."
     results = search_query(sample_query, top_k=3)
-    for i, res in enumerate(results):
+    
+    filtered_results = []
+    for res in results:
+        if res["category"] == "Power/Battery":
+            filtered_results.append(res)
+
+    for i, res in enumerate(filtered_results):
         print(f"Result {i+1}:")
         print(json.dumps(res, indent=2, ensure_ascii=False))
         print()
+        
